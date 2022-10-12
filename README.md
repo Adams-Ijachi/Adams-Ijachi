@@ -116,21 +116,21 @@ I love and I’m very good at API Integration, and also designing robust Backend
 <h6 align="center">MY REPOSITORIES</h6>
 
 <p align="center">
-  <a href="https://github.com/Adams-Ijachi/CaptainUN" title="Go to docs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adams-ijachi&repo=CaptainUn&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
+  <a href="https://github.com/Adams-Ijachi/CAPUN" title="Go to docs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adams-ijachi&repo=CAPUN&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to docs">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to docs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adams-ijachi&repo=Tweete&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
-  </a>
+  </a> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Adams-Ijachi/Tweete-Server" title="Go to docs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adams-ijachi&repo=Tweete-Server&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
   </a>
 
-</p>
+</p> -->
 <p align="center">
   <a href="https://github.com/Adams-Ijachi/GitHub_Laravel_Automation" title="Go to docs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adams-ijachi&repo=GitHub_Laravel_Automation&bg_color=d8f3dc&hide_border=true&border_radius=15&line_height=30&title_color=000814&text_color=000814&icon_color=ffc300" />
