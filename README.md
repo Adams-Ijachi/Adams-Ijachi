@@ -14,7 +14,7 @@ I love and I’m very good at API Integration, and also designing robust Backend
 
 </p>
 <p align="center">
-  💻 I'm in ❤ with the <strong>source code</strong>
+  💻 I love ❤ building and working on systems that help  <strong>people</strong>
   <br/>
   🌱 I'm currently learning more about system architecture (microservices) and design patterns using <strong>Go</strong>
   <br/><br/>
