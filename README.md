@@ -10,8 +10,7 @@ I love and I’m very good at API Integration, and also designing robust Backend
 </p>
 <br/>
 
-<p align="center">
-🏢 I currently work at <a href="https://cashir.app/"><strong>Cashir</strong><a><br />
+
 
 </p>
 <p align="center">
